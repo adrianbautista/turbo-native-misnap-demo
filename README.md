@@ -1,5 +1,7 @@
 Demo app to show clicking button in Rails web app triggers MiSnap SDK front check capture flow
 
+![demo gif](./demo.gif)
+
 # Setup
 
 Run rails application on `localhost:3000`:
