@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "misnap-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mitek-Systems/MiSnap-iOS.git",
+      "state" : {
+        "revision" : "0c38fb57fd813575b14097545191b99f9b89cfa7",
+        "version" : "5.4.1"
+      }
+    },
+    {
+      "identity" : "turbo-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hotwired/turbo-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2e0bce273f3d4a7da8e2990426853439b9df436e"
+      }
+    }
+  ],
+  "version" : 2
+}
